@@ -32,9 +32,13 @@ This project showcases how machine learning concepts such as regression can be a
 
 ## 📂 Project Structure
 Core/
+
 ├── Inc/ # Header files
+
 ├── Src/ # Source files (main.c, adc, usart, etc.)
+
 Drivers/ # HAL drivers
+
 STM32C0xx/ # CMSIS and device support
 
 
