@@ -85,6 +85,6 @@ X=2260, Y_real=2130, Y_pred=2260.65, Error=-130.65
 This project was developed as part of the **Microprocessor Systems** course (*Mikroprocesorski sistemi*).
 
 - [Marija Jolović](https://github.com/marijajolovic) — 46/2021  
-- Stefan Stanišić — 81/2021  
+- [Stefan Stanišić](https://github.com/stanisicstefan) — 81/2021  
 - [Anđelina Maksimović](https://github.com/AndjelinaMaksimovic) — 56/2021  
 
