@@ -57,7 +57,9 @@ STM32C0xx/ # CMSIS and device support
 
 ## 📊 Example Output
 Linear regression: Y = 0.982 * X + 10.523
+
 X=2259, Y_real=2130, Y_pred=2259.66, Error=-129.66
+
 X=2260, Y_real=2130, Y_pred=2260.65, Error=-130.65
 
 
@@ -67,6 +69,15 @@ X=2260, Y_real=2130, Y_pred=2260.65, Error=-130.65
 - Implement higher-order polynomial regression (3rd or 4th degree)  
 - Add support for real-time error metrics (MSE, RMSE)  
 - Visualize results via UART → Python plotting script  
+
+---
+
+## 🔄 System Data Flow
+
++------------------+ +-----------+ +----------------------+ +-------------------+
+| Accelerometer | ----> | ADC1 | ----> | STM32 Nucleo (C031) | ----> | UART / COM Port |
+| (X, Y outputs) | | (PA0,PA1) | | Linear & Polynomial | | Tera Term / PC |
++------------------+ +-----------+ | Regression Code | +-------------------+ +----------------------+
 
 ---
 
