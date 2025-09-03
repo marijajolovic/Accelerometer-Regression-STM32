@@ -74,7 +74,7 @@ X=2260, Y_real=2130, Y_pred=2260.65, Error=-130.65
 
 ## 🔄 System Data Flow
 
-<img width="986" height="142" alt="image" src="https://github.com/user-attachments/assets/b89697ca-11a6-4676-a4b0-9122f00c5dd9" />
+<img width="631" height="91" alt="viber_image_2025-09-03_13-41-23-003" src="https://github.com/user-attachments/assets/37dccd32-a135-43c5-b413-e68dedd335ce" />
 
 
 ---
