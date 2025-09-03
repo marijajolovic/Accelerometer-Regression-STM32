@@ -74,10 +74,13 @@ X=2260, Y_real=2130, Y_pred=2260.65, Error=-130.65
 
 ## 🔄 System Data Flow
 
-+------------------+ +-----------+ +----------------------+ +-------------------+
-| Accelerometer | ----> | ADC1 | ----> | STM32 Nucleo (C031) | ----> | UART / COM Port |
-| (X, Y outputs) | | (PA0,PA1) | | Linear & Polynomial | | Tera Term / PC |
-+------------------+ +-----------+ | Regression Code | +-------------------+ +----------------------+
+
+
+---
+
+## Technical Documentation
+
+You can find technical documentation [here](Docs/TehničkaDokumentacija.pdf).
 
 ---
 
