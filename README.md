@@ -74,6 +74,7 @@ X=2260, Y_real=2130, Y_pred=2260.65, Error=-130.65
 
 ## 🔄 System Data Flow
 
+<img width="986" height="142" alt="image" src="https://github.com/user-attachments/assets/b89697ca-11a6-4676-a4b0-9122f00c5dd9" />
 
 
 ---
